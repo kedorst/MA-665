@@ -7,7 +7,7 @@ This is a temporary script file.
 
 import numpy as np
 
-np.random.rand(10,20)
+p = np.random.rand(10,20)
 #create a 10 x 20 matrix with random numbers
 
 np.fill_diagonal(p,1)
